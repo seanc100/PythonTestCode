@@ -1,0 +1,3391 @@
+<catalog xsi:noNamespaceSchemaLocation="xcp-catalog_1_1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_283"/>
+<name val="U.S. OlymPic Team Ice Hockey"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3067"/>
+<name val="FlipIt"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3070"/>
+<name val="FlipIt!"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3530"/>
+<name val="ClubFONE Nightlife Guide"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3595"/>
+<name val="CGL with Fight Tones"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3711"/>
+<name val="Hawaiian TroPic"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3599"/>
+<name val="College and Greek Logos"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1275"/>
+<name val="Pictocross Mobile"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10041"/>
+<name val="FunGirl Flair"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1049"/>
+<name val="Sonic at the OlymPic Games"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2034"/>
+<name val="National Geographic Wallpapers"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2044"/>
+<name val="Wallpaper Mart"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2085"/>
+<name val="Foto2MTV"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2116"/>
+<name val="Peanuts Wallpaper"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2123"/>
+<name val="RetroTones"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2147"/>
+<name val="FunScreenz"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2162"/>
+<name val="FunGirl Dish"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2555"/>
+<name val="WALLPAPER MAKER"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2559"/>
+<name val="ToneMaker Deluxe"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2565"/>
+<name val="ToneMAKER"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4362"/>
+<name val="Pictionary"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4681"/>
+<name val="Hallmark Smiles + Styles"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5763"/>
+<name val="Find Hidden Pictures"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4686"/>
+<name val="Sleek &amp; Chic Wallpaper"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6620"/>
+<name val="CrazeePix"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6274"/>
+<name val="Movie Pix &amp; Tones"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5665"/>
+<name val="BlingTones"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5670"/>
+<name val="BlingPix"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5683"/>
+<name val="BlingTones Music"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5687"/>
+<name val="BlingTones"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9261"/>
+<name val="Disney Wallpaper Universe"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18121"/>
+<name val="FunTones Unlimited"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15561"/>
+<name val="Rock Star Wallpaper"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16921"/>
+<name val="Funny.TV"/>
+<customAttribute val="Entertainment" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2854"/>
+<name val="MyLovesigns"/>
+<customAttribute val="Entertainment,Horoscope" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2855"/>
+<name val="MyHoroscope"/>
+<customAttribute val="Entertainment,Horoscope" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2100"/>
+<name val="FunTones Universe"/>
+<customAttribute val="Entertainment,movies,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2038"/>
+<name val="Song IDentity"/>
+<customAttribute val="Entertainment,Music" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2105"/>
+<name val="YouTones"/>
+<customAttribute val="Entertainment,Music,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_502"/>
+<name val="M�sica Real"/>
+<customAttribute val="Entertainment,Music,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_503"/>
+<name val="Univision Tonos"/>
+<customAttribute val="Entertainment,Music,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2130"/>
+<name val="Wallpaper Universe MRC"/>
+<customAttribute val="Entertainment,Music,Wallpaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1157"/>
+<name val="VR Plus"/>
+<customAttribute val="Entertainment,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2067"/>
+<name val="Christian Tones"/>
+<customAttribute val="Entertainment,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2107"/>
+<name val="MyTonz"/>
+<customAttribute val="Entertainment,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2121"/>
+<name val="FunTones"/>
+<customAttribute val="Entertainment,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2557"/>
+<name val="ToneMaker"/>
+<customAttribute val="Entertainment,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2099"/>
+<name val="RetroTones"/>
+<customAttribute val="Entertainment,RingTone,80's" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5682"/>
+<name val="Barrio Mobile Tones"/>
+<customAttribute val="Entertainment,RingTone,Latin,Tone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5688"/>
+<name val="Barrio Music"/>
+<customAttribute val="Entertainment,RingTone,Latin,Tone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_487"/>
+<name val="FlixTones"/>
+<customAttribute val="Entertainment,RingTone,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2135"/>
+<name val="RingTone Universe 2"/>
+<customAttribute val="Entertainment,RingTone,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2070"/>
+<name val="Ringster+"/>
+<customAttribute val="Entertainment,tone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_468"/>
+<name val="MobiTV"/>
+<customAttribute val="Entertainment,TV,Video" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2847"/>
+<name val="MyWallpaper"/>
+<customAttribute val="Entertainment,wallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2846"/>
+<name val="Pictavision"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4023"/>
+<name val="CrossPix by glu"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3588"/>
+<name val="Hooters Calendar"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3626"/>
+<name val="Mobile Graffiti"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2131"/>
+<name val="Imagenes Calientes"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2134"/>
+<name val="Flirt Pix"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2161"/>
+<name val="TrueTones Universe"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2493"/>
+<name val="JuiceCaster"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2128"/>
+<name val="HD Wallpaper"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11521"/>
+<name val="Hotties in HD"/>
+<customAttribute val="Entertainment,WallPaper" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2137"/>
+<name val="Holiday Wallpaper"/>
+<customAttribute val="Entertainment,WallPaper,christmas" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3714"/>
+<name val="All Mobile Wallpaper"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2016"/>
+<name val="Beach Pix"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2083"/>
+<name val="MyScreenz"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2152"/>
+<name val="America's Best Mobile Pix"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5685"/>
+<name val="American Photo"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2095"/>
+<name val="aPix"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10481"/>
+<name val="Animated Babes"/>
+<customAttribute val="Entertainment,WallPaper,Pic" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2701"/>
+<name val="Dominoes"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2821"/>
+<name val="Bubble Bobble"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2832"/>
+<name val="Bust-A-Move"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2704"/>
+<name val="Chess 2.0"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_284"/>
+<name val="Fast &amp; Furious: Tokyo 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3149"/>
+<name val="Bubble Popper Deluxe"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3161"/>
+<name val="Bully Fight: 120 Water Bombs"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4136"/>
+<name val="Centipede"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4146"/>
+<name val="TRANSFORMERS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4175"/>
+<name val="Nip/Tuck"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3337"/>
+<name val="Diet Fitness Diary"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_350"/>
+<name val="Jewel Quest Solitaire"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3572"/>
+<name val="Crazy Eights"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_298"/>
+<name val="GoodFellas"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3061"/>
+<name val="Extraordinary Casino"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3066"/>
+<name val="Black Jack/Video Poker Pro"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3072"/>
+<name val="Black Jack Pro/Video Poker Pro"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3090"/>
+<name val="ESPN Outdoors Fishin' Forecast"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3120"/>
+<name val="Diamond Islands"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3147"/>
+<name val="Carnival Games 12-Pack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3159"/>
+<name val="Extreme Air Snowboarding"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_316"/>
+<name val="The Weakest Link"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3162"/>
+<name val="Brain Tester 24-Pack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3172"/>
+<name val="Carnival Games Deluxe"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4018"/>
+<name val="Guitar Tuner"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4027"/>
+<name val="Diner Dash"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4051"/>
+<name val="Call of Duty 4: Modern Warfare"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_406"/>
+<name val="Blackjack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4065"/>
+<name val="Looney Tunes and More"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4066"/>
+<name val="Ice Age: Mammoth Mayhem"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4080"/>
+<name val="Dexters Laboratory"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4088"/>
+<name val="Transformers G1: Awakening"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4135"/>
+<name val="MONOPOLY Here &amp; Now"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4158"/>
+<name val="Deer Hunter 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4168"/>
+<name val="FOX Sports Hockey by Sorrent"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_417"/>
+<name val="BlackJack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4171"/>
+<name val="Ice Age 2: Arctic Slide"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4174"/>
+<name val="Poker Pop"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4185"/>
+<name val="Card Player Poker For Prizes"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4207"/>
+<name val="Cubis 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4249"/>
+<name val="EA Burnout"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4275"/>
+<name val="Downtown Video Slots"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3223"/>
+<name val="Extreme Snowboarding by DChoc"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3232"/>
+<name val="Brick Breaker Revolution"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3238"/>
+<name val="Brain Tester Multipack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_33"/>
+<name val="Frogger"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_338"/>
+<name val="ER Rush"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_355"/>
+<name val="Crash Bandicoot: Twinsanity"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_356"/>
+<name val="DreamDayWedding"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_359"/>
+<name val="FMX III: Hardcore"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3605"/>
+<name val="Mattel Classic Game Pack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_365"/>
+<name val="Wanted"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3654"/>
+<name val="Texas Hold'em 2007 with Phil"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_375"/>
+<name val="Fast &amp; Furious: Tokyo"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_373"/>
+<name val="Fast &amp; Furious: Fugitive"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11841"/>
+<name val="Night of the Museum 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1311"/>
+<name val="Detective Puzzles"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1389"/>
+<name val="Office Games"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1391"/>
+<name val="Bruce Lee- Iron Fist 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1422"/>
+<name val="Bruce Lee - Iron Fist"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1521"/>
+<name val="CASH CAB."/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3889"/>
+<name val="Superman Returns"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3940"/>
+<name val="Harlequin"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10001"/>
+<name val="WATCHMEN: The Mobile Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10162"/>
+<name val="Monsters Vs. Aliens"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10341"/>
+<name val="Hell's Kitchen"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10521"/>
+<name val="Cranium"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1083"/>
+<name val="Golden Axe"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11441"/>
+<name val="X-MEN ORIGINS: WOLVERINE"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11541"/>
+<name val="Derek Jeter Baseball 2009 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11581"/>
+<name val="STAR TREK"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1185"/>
+<name val="Collapse! Chaos"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11861"/>
+<name val="Night at the Museum 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11961"/>
+<name val="Terminator Salvation"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1277"/>
+<name val="Fight Hard 3D by Reaxion"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13081"/>
+<name val="California Gold Rush"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1309"/>
+<name val="Gin Rummy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1315"/>
+<name val="Go Fish!"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1324"/>
+<name val="Mahjong Deluxe by Reaxion"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1383"/>
+<name val="Garfield's Day Out"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1390"/>
+<name val="Bruce Lee"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1404"/>
+<name val="Jurassic Park"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1406"/>
+<name val="Combat Tank Attack"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15"/>
+<name val="Frogger 25th: Evolution"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1510"/>
+<name val="GHOULS N' GHOSTS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1511"/>
+<name val="Millionaire: Pop Culture"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1519"/>
+<name val="RESIDENT EVIL: GENESIS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1523"/>
+<name val="Smarter Than A 5th Grader?"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1526"/>
+<name val="Millionaire Music Edition"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1531"/>
+<name val="GHOULS N' GHOSTS�"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1535"/>
+<name val="GHOULS N' GHOSTS(TM)"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1546"/>
+<name val="Emergency Mayhem(TM)"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1547"/>
+<name val="ESPN Poker Club"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1838"/>
+<name val="Punisher"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_169"/>
+<name val="Blackjack Cheater"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_19"/>
+<name val="Frogger v1.8"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_218"/>
+<name val="Crazy Climber"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4807"/>
+<name val="Midnight Hold �Em Poker"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4820"/>
+<name val="Heroes"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4894"/>
+<name val="Chessmaster"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_21"/>
+<name val="Blockshot by Konami"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_216"/>
+<name val="Brady Bunch Kung Fu"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_222"/>
+<name val="The Price is Right"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_229"/>
+<name val="Family Feud Deluxe"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_236"/>
+<name val="Jimmy Neutron's Dimension Dash"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_239"/>
+<name val="PriceIsRight CliffHngrs"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_241"/>
+<name val="Family Feud 2.0"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_242"/>
+<name val="DOND Banker's Revenge"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4838"/>
+<name val="Gangstar: Crime City"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4841"/>
+<name val="Dogz"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4944"/>
+<name val="Driver L.A. Undercover"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4947"/>
+<name val="The O.C."/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5190"/>
+<name val="Diamond Rush"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4313"/>
+<name val="Tomb Raider Underworld"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4478"/>
+<name val="FIFA 09 by EA SPORTS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4489"/>
+<name val="Boggle"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5029"/>
+<name val="The Mummy : TOTDE"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5042"/>
+<name val="Brothers In Arms Art of War"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5244"/>
+<name val="Brothers In Arms EarnedInBlood"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5252"/>
+<name val="Death Race : The Mobile Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_527"/>
+<name val="Tiny Checkers"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5300"/>
+<name val="Block Breaker Deluxe LG4400"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5320"/>
+<name val="Far Cry 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5324"/>
+<name val="Miami Nights"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5353"/>
+<name val="Derek Jeter Pro Baseball 2005"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5122"/>
+<name val="Mission Impossible 3"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5124"/>
+<name val="Bikini Volleyball"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5221"/>
+<name val="DJ Pro Baseball 2008 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5238"/>
+<name val="Hulkamania Wrestling"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4310"/>
+<name val="THE GODFATHER"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4333"/>
+<name val="Fight Night Round 3 EA SPORTS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4338"/>
+<name val="Doom RPG"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4363"/>
+<name val="Harry Potter OOTP"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4365"/>
+<name val="MONOPOLY Tycoon"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4398"/>
+<name val="COMMAND AND CONQUER"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4407"/>
+<name val="Downtown Texas Holdem"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4421"/>
+<name val="EA Air Hockey by JAMDAT"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4439"/>
+<name val="Fight Night Round 3 EA Sports"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4443"/>
+<name val="ESPN Darts"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4448"/>
+<name val="FIFA Soccer 08 by EA SPORTS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4472"/>
+<name val="Scrabble"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4476"/>
+<name val="ESPN Bassmasters"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4503"/>
+<name val="Scrabble Blast"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4770"/>
+<name val="Grey's Anatomy The Mobile Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5771"/>
+<name val="Donovan McNabb Street Action"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5787"/>
+<name val="Duke Nukem Mobile 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5798"/>
+<name val="Fish On!"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6634"/>
+<name val="Euchre Master"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6772"/>
+<name val="Capone Casino"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6799"/>
+<name val="Harlem Globetrotters 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6853"/>
+<name val="Dodgeball: Public School"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6867"/>
+<name val="Bop It Blitz 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7288"/>
+<name val="Scene It? Movie by Namco"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4543"/>
+<name val="Collapse"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4546"/>
+<name val="The Simpsons"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4682"/>
+<name val="Fashion Mogul"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4784"/>
+<name val="Ghost Recon Adv. Warfighter 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4788"/>
+<name val="Derek Jeter Pro Baseball 2008"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5759"/>
+<name val="Croc Hunter Operation Rescue"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5784"/>
+<name val="Duke Nukem Mobile II"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5790"/>
+<name val="Championship Bull Riding"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_58"/>
+<name val="Castlevania 1"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5823"/>
+<name val="Pit Boss"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5826"/>
+<name val="Celebrity Detective"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_590"/>
+<name val="Slingo-2-Go"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6747"/>
+<name val="fight club 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6760"/>
+<name val="BopIt"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6785"/>
+<name val="Capone Casino II"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6800"/>
+<name val="Fight Club"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6804"/>
+<name val="BIGFOOT: Yeti Lives!"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6811"/>
+<name val="Fox Motocross"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6816"/>
+<name val="Dominos Locos"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6836"/>
+<name val="JAWS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6852"/>
+<name val="Capone Casino II 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6861"/>
+<name val="JAWS 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6869"/>
+<name val="Capone Casino II  3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6883"/>
+<name val="Gum Balls"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6952"/>
+<name val="Bob Marley Burnin'"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6954"/>
+<name val="Gravity Blast by Hudson"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6957"/>
+<name val="Bonk's Return"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6962"/>
+<name val="Bomberman Kart"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6964"/>
+<name val="D12 Pro Wrestling"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6969"/>
+<name val="Super Bomberman"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6970"/>
+<name val="Blitz: The League Mobile"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7275"/>
+<name val="galaga"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7297"/>
+<name val="Dilbert Cubicle Chaos by Namco"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7268"/>
+<name val="BurgerTime Delight by Namco"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5390"/>
+<name val="Desperate Housewives"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5407"/>
+<name val="LOST"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5434"/>
+<name val="Radiohitz! Guess That Song"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5498"/>
+<name val="Desperate Housewive"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5512"/>
+<name val="Soul of Darkness"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7521"/>
+<name val="SUPERMAN/BATMAN: HEROES UNITED"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7721"/>
+<name val="CLUE"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7901"/>
+<name val="Shrek Party: Holiday Mayhem"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8041"/>
+<name val="Bugs Bunny: Rabbit Rescue"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_815"/>
+<name val="DeadRingers"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_819"/>
+<name val="Dead Ringers"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8341"/>
+<name val="Gangstar 2: Kings of LA"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6993"/>
+<name val="Bomberman Land: Battles"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7211"/>
+<name val="digdug"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7224"/>
+<name val="Scene It? TV Edition by Namco"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7235"/>
+<name val="Galaga"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_613"/>
+<name val="Drinkitni"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_614"/>
+<name val="Drinktini 2.0"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6224"/>
+<name val="ESPN X Games Skateboarding"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6226"/>
+<name val="ESPN X Games SnowMotoX"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6229"/>
+<name val="ESPN X Games SnowMoto X"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6230"/>
+<name val="ESPN X Games Snowboarder X"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_628"/>
+<name val="Drinktini"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5406"/>
+<name val="Shrek The Third"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5467"/>
+<name val="Million Dollar Poker"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5469"/>
+<name val="Midnight Hold 'Em Poker 3D"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5478"/>
+<name val="Big Range Hunting"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5588"/>
+<name val="Fishtank Frenzy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5701"/>
+<name val="Craps"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5705"/>
+<name val="Chalkman's Puzzle Madness"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9621"/>
+<name val="Chocolatier"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17401"/>
+<name val="Conspiracy Theory: Area 51"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16101"/>
+<name val="GT Racing: Motor Academy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8661"/>
+<name val="The Simpsons Itchy &amp; Scratchy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8801"/>
+<name val="Ferrari GT Evolution"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5693"/>
+<name val="Crazy Eights"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5733"/>
+<name val="Snake Mayhem 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10781"/>
+<name val="FizzBall"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17481"/>
+<name val="Sherlock Holmes The Movie Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14701"/>
+<name val="FIGHT NIGHT Round 4"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15921"/>
+<name val="Twilight: The Movie Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_880"/>
+<name val="Fantastic 4: Silver Surfer"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8981"/>
+<name val="Hero of Sparta"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_945"/>
+<name val="Fantasy Football Comp. by CBS"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_969"/>
+<name val="Fantasy Baseball Companion '06"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13641"/>
+<name val="Castle of Magic"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_911"/>
+<name val="Guitar Hero"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9241"/>
+<name val="CSI: NY"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_931"/>
+<name val="Call of Duty 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9601"/>
+<name val="Chuck Norris Bring on the Pain"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_970"/>
+<name val="Duckshot"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9781"/>
+<name val="Chocolate Shop Frenzy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_992"/>
+<name val="World Poker Tour 2 - Hold �Em"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13261"/>
+<name val="Harry Potter Half-Blood"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17521"/>
+<name val="HARVEST MOON FRANTIC FARMING"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17961"/>
+<name val="Bubble Town 2"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17541"/>
+<name val="Voltron"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15261"/>
+<name val="Zombieland"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3794"/>
+<name val="God of War: Betrayal"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17621"/>
+<name val="The Wolfman by Namco"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18561"/>
+<name val="Earthworm Jim by Gameloft"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18181"/>
+<name val="Earthworm Jim"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18721"/>
+<name val="Carnival Land! by Gameloft"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18521"/>
+<name val="Catcha Mouse"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18961"/>
+<name val="New Moon Movie Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17161"/>
+<name val="COLLAPSE!"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_19321"/>
+<name val="Final Fantasy"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17101"/>
+<name val="The Simpsons Arcade"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15081"/>
+<name val="Crazy Taxi"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18021"/>
+<name val="Doom 2 RPG"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_19241"/>
+<name val="Clash of the Titans"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_19221"/>
+<name val="How to Train Your Dragon Game"/>
+<customAttribute val="Game" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12881"/>
+<name val="Transformers ROTF"/>
+<customAttribute val="Game,Action,Adventure" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4132"/>
+<name val="Super Breakout"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4046"/>
+<name val="Atari Legends vol 2"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4048"/>
+<name val="atari legends vol 1"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4056"/>
+<name val="Atari Legends Vol 3"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10801"/>
+<name val="Lemmings Tribes"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10501"/>
+<name val="Firefighters: City Rescue"/>
+<customAttribute val="Game,Action,Adventure,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6822"/>
+<name val="Paintball Challenge 2"/>
+<customAttribute val="Game,Action,Adventure,Arcade ,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4964"/>
+<name val="CSI : Miami"/>
+<customAttribute val="Game,Action,Adventure,Crime" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5044"/>
+<name val="CSI: The Mobile Game"/>
+<customAttribute val="Game,Action,Adventure,crime" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15581"/>
+<name val="Carmen Sandiego"/>
+<customAttribute val="Game,Action,Adventure,Crime" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4176"/>
+<name val="The Dark Knight"/>
+<customAttribute val="Game,Action,Adventure,Crime,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15041"/>
+<name val="Cops"/>
+<customAttribute val="Game,Action,Adventure,Crime,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8881"/>
+<name val="Resident Evil: Degeneration"/>
+<customAttribute val="Game,Action,Adventure,Crime,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5404"/>
+<name val="Beowulf"/>
+<customAttribute val="Game,Action,Adventure,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13721"/>
+<name val="99 Ninjas"/>
+<customAttribute val="Game,Action,Adventure,fight" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4172"/>
+<name val="Madagascar: Escape 2 Africa"/>
+<customAttribute val="Game,action,Adventure,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4094"/>
+<name val="DiRT off road racing"/>
+<customAttribute val="Game,Action,Adventure,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14321"/>
+<name val="NitroStreet Racing 2"/>
+<customAttribute val="Game,Action,Adventure,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12181"/>
+<name val="SONIC THE HEDGEHOG"/>
+<customAttribute val="Game,Action,Adventure,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18861"/>
+<name val="Avalanche Snowboarding"/>
+<customAttribute val="Game,Action,Adventure,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2827"/>
+<name val="Arkanoid"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4070"/>
+<name val="Asteroids Deluxe"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4035"/>
+<name val="AstroPop"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4064"/>
+<name val="Deer Hunter 3"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4068"/>
+<name val="Asteroids"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1543"/>
+<name val="DEAD RISING"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4862"/>
+<name val="Big Range Hunting 3D"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6818"/>
+<name val="Alien vs. Predator"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6875"/>
+<name val="Aliens Vs Predator: Requiem"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6325"/>
+<name val="Peggle"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13181"/>
+<name val="Big Range Hunting 2"/>
+<customAttribute val="Game,Action,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4532"/>
+<name val="SimCity Metropolis"/>
+<customAttribute val="Game,Action,Adventure,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7105"/>
+<name val="The Sims 2"/>
+<customAttribute val="Game,Action,Adventure,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_337"/>
+<name val="24"/>
+<customAttribute val="Game,Action,Adventure,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5574"/>
+<name val="Babe Ruth Bashball"/>
+<customAttribute val="Game,Action,Adventure,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17141"/>
+<name val="AVATAR by Gameloft"/>
+<customAttribute val="Game,Action,Adventure,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4125"/>
+<name val="Age of Empires III"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4780"/>
+<name val="Assassin's Creed"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5585"/>
+<name val="Age Of Empires(R) II Deluxe"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16501"/>
+<name val="Assassin's Creed II 3D"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16661"/>
+<name val="Assassin's Creed II"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3886"/>
+<name val="300 - The Mobile Game"/>
+<customAttribute val="Game,Action,Adventure,Strategy,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6782"/>
+<name val="Battlestar Galactica"/>
+<customAttribute val="Game,Action,Adventure,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4052"/>
+<name val="Call of Duty: World at War"/>
+<customAttribute val="Game,Action,Adventure,War" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13361"/>
+<name val="G.I. JOE"/>
+<customAttribute val="Game,Action,Adventure,War" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4306"/>
+<name val="MONOPOLY WORLD"/>
+<customAttribute val="Game,Action,Board" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5490"/>
+<name val="American Gangster"/>
+<customAttribute val="Game,Action,crime,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1548"/>
+<name val="American Gladiators"/>
+<customAttribute val="Game,Action,fight" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9741"/>
+<name val="AMERICAN IDOL"/>
+<customAttribute val="Game,Action,fight" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10401"/>
+<name val="Luxor Quest"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11281"/>
+<name val="Battleship Connect 4"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1338"/>
+<name val="Ball Frenzy"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7221"/>
+<name val="Atlantis Sky Patrol by Namco"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15501"/>
+<name val="Addiction"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11902"/>
+<name val="Ice Age: Dawn of the Dinosaurs"/>
+<customAttribute val="Game,Action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13581"/>
+<name val="Jewel Quest Deluxe"/>
+<customAttribute val="Game,action,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12001"/>
+<name val="Angels &amp; Demons"/>
+<customAttribute val="Game,Action,Puzzle,,Fantasy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_302"/>
+<name val="2Fast2Furious(TM)"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4169"/>
+<name val="ATV Offroad Fury"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6761"/>
+<name val="Andretti Racing3D"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6823"/>
+<name val="Andretti Racing 3D"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6765"/>
+<name val="Andretti Racing"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7226"/>
+<name val="Alpine Racer 3D by Namco"/>
+<customAttribute val="Game,Action,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_369"/>
+<name val="3D Fast and Furious Pink Slip"/>
+<customAttribute val="Game,Action,Racing,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10981"/>
+<name val="3D Fast and Furious"/>
+<customAttribute val="Game,Action,Racing,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1344"/>
+<name val="Air Raid"/>
+<customAttribute val="Game,Action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1365"/>
+<name val="Air Raid Plus"/>
+<customAttribute val="Game,Action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10641"/>
+<name val="Platinum Sudoku 2"/>
+<customAttribute val="Game,action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5777"/>
+<name val="3d hunting whitetail 2"/>
+<customAttribute val="Game,Action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5807"/>
+<name val="3D Hunting: Trophy Whitetail 2"/>
+<customAttribute val="Game,Action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5690"/>
+<name val="3D Hunting Trophy Whitetail"/>
+<customAttribute val="Game,Action,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10522"/>
+<name val="The Sims 3"/>
+<customAttribute val="Game,Action,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16601"/>
+<name val="Call of Duty: Modern Warfare 2"/>
+<customAttribute val="Game,Action,Strategy,War" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_312"/>
+<name val="24: Agent Down"/>
+<customAttribute val="Game,Action,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3135"/>
+<name val="American Pie: The Mobile Game"/>
+<customAttribute val="Game,Action,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3151"/>
+<name val="24: Special Ops"/>
+<customAttribute val="Game,Action,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5753"/>
+<name val="Animal House: Toga Party"/>
+<customAttribute val="Game,Action,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7781"/>
+<name val="2008 Shrek Fiesta"/>
+<customAttribute val="Game,Action,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12661"/>
+<name val="Surviving High School NEW"/>
+<customAttribute val="Game,Adventure" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15821"/>
+<name val="Deer Hunter 3D"/>
+<customAttribute val="Game,Adventure,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4493"/>
+<name val="Game of LIFE"/>
+<customAttribute val="Game,Adventure,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5059"/>
+<name val="The Oregon Trail"/>
+<customAttribute val="Game,Adventure,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16841"/>
+<name val="2012: Apocalypse"/>
+<customAttribute val="Game,Adventure,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7255"/>
+<name val="PAC-MAN Arcade Golf by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4324"/>
+<name val="Ms PAC_MAN"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7295"/>
+<name val="PAC-MAN by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7209"/>
+<name val="Ms. PAC-MAN by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7212"/>
+<name val="PAC-MANIA (3D) by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7262"/>
+<name val="Dig Dug by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7244"/>
+<name val="Super PAC-MAN by Namco"/>
+<customAttribute val="Game,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4282"/>
+<name val="Tetris Mania"/>
+<customAttribute val="Game,Arcade ,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4420"/>
+<name val="Tetris"/>
+<customAttribute val="Game,Arcade ,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7265"/>
+<name val="Galaga by Namco"/>
+<customAttribute val="Game,Arcade ,Shooter" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6985"/>
+<name val="6 Shooter: BlackJack"/>
+<customAttribute val="Game,Casino,Card,BlackJack" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4118"/>
+<name val="World Series of Poker Hold'em"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4141"/>
+<name val="5 Card Draw Poker by Sorrent"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12061"/>
+<name val="Hard Rock Casino Collection"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1312"/>
+<name val="Street Casino: King Maker"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4428"/>
+<name val="Downtown Texas Hold'em"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6999"/>
+<name val="6 Shooter: Poker"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16041"/>
+<name val="WSOP: Texas Hold'em Legend"/>
+<customAttribute val="Game,Casino,Card,Poker" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4889"/>
+<name val="Dogz 2"/>
+<customAttribute val="Game,Dogs" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11881"/>
+<name val="Doggie Dash"/>
+<customAttribute val="Game,Dogs,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4874"/>
+<name val="Guitar Rock Tour"/>
+<customAttribute val="Game,Music" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16684"/>
+<name val="Guitar Hero 5"/>
+<customAttribute val="Game,Music" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_496"/>
+<name val="GAC Country RingTones"/>
+<customAttribute val="Game,Music,RingTone" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5148"/>
+<name val="Battle for the White House"/>
+<customAttribute val="Game,Political ,Satire" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_289"/>
+<name val="Super Jewel Quest"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_308"/>
+<name val="3D Jewel Quest II"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4057"/>
+<name val="Zuma"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4150"/>
+<name val="HOYLE 6-in-1 Solitaire Pro"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10421"/>
+<name val="Bubble Town"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11601"/>
+<name val="Where's Waldo?"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12681"/>
+<name val="Betty Boop: Movie Mix Up"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_173"/>
+<name val="Solitaire Deluxe 12-Pack"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4397"/>
+<name val="Bejeweled Multiplayer"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5341"/>
+<name val="Block Breaker Deluxe 2"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4758"/>
+<name val="Block Breaker Deluxe"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4754"/>
+<name val="Platinum Solitaire"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6820"/>
+<name val="Gum Blox"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6324"/>
+<name val="Chuzzle"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8821"/>
+<name val="Solitaire Deluxe 16-Pack"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14561"/>
+<name val="Looney Tunes Monster Match"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9881"/>
+<name val="Platinum Solitaire 2"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13741"/>
+<name val="CASH CAB"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13761"/>
+<name val="Bubble Bash 2"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14161"/>
+<name val="Sudoku Deluxe Green Edition"/>
+<customAttribute val="Game,Puzzle" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2197"/>
+<name val="3D Glacier Run"/>
+<customAttribute val="Game,Puzzle,action" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10581"/>
+<name val="Bejeweled Twist"/>
+<customAttribute val="Game,Puzzle,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4558"/>
+<name val="Bejeweled"/>
+<customAttribute val="Game,Puzzle,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_9201"/>
+<name val="3D Brick Breaker Revolution"/>
+<customAttribute val="Game,Puzzle,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_8062"/>
+<name val="The Price Is Right"/>
+<customAttribute val="Game,Puzzle,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11421"/>
+<name val="UNO"/>
+<customAttribute val="Game,Puzzle,Word" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6328"/>
+<name val="Bookworm"/>
+<customAttribute val="Game,Puzzle,Word" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_15641"/>
+<name val="WordSearch"/>
+<customAttribute val="Game,Puzzle,word" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_282"/>
+<name val="DealorNoDeal MDM"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4069"/>
+<name val="Family Feud"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4144"/>
+<name val="Brain Genius 2"/>
+<customAttribute val="Game,Quiz,general Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1528"/>
+<name val="Smarter Than A 5th Grader? 09"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1539"/>
+<name val="Millionaire 2009"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4915"/>
+<name val="1 vs 100"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5048"/>
+<name val="Brain Challenge"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7241"/>
+<name val="Brain Exercise by Namco"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14021"/>
+<name val="DealorNoDeal ATW"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13421"/>
+<name val="Millionaire  2009"/>
+<customAttribute val="Game,Quiz,General Knowledge" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3166"/>
+<name val="20Q: Sports Quiz"/>
+<customAttribute val="Game,Quiz,Sport" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3202"/>
+<name val="20Q: Celebrity Quiz"/>
+<customAttribute val="Game,Quiz,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3823"/>
+<name val="Wheel of Fortune Deluxe"/>
+<customAttribute val="Game,Quiz,Word" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4038"/>
+<name val="Wedding Dash"/>
+<customAttribute val="Game,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4167"/>
+<name val="Diner Dash 2"/>
+<customAttribute val="Game,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10361"/>
+<name val="Date or Ditch"/>
+<customAttribute val="Game,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16061"/>
+<name val="Diner Dash: Flo on the Go"/>
+<customAttribute val="Game,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14061"/>
+<name val="Dream Day Wedding 2"/>
+<customAttribute val="Game,Sim" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4067"/>
+<name val="Super Slam Ping Pong! by glu"/>
+<customAttribute val="Game,Sport" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1084"/>
+<name val="Beijing 2008 OlymPic Games"/>
+<customAttribute val="Game,Sport" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_328"/>
+<name val="3D FMX III: Hardcore"/>
+<customAttribute val="Game,Sport,Action,BMX" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_12381"/>
+<name val="Pro Golf  2010 World Tour"/>
+<customAttribute val="Game,Sport,Action,Golf" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_16781"/>
+<name val="Tony Hawk VERT"/>
+<customAttribute val="Game,Sport,Action,Skateboarding" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5696"/>
+<name val="Arcade Zone"/>
+<customAttribute val="Game,Sport,Arcade" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3631"/>
+<name val="ARod MVP Baseball Challenge"/>
+<customAttribute val="Game,Sport,Baseball" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11061"/>
+<name val="Derek Jeter Pro Baseball 2009"/>
+<customAttribute val="Game,Sport,baseball" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6971"/>
+<name val="Baseball"/>
+<customAttribute val="Game,Sport,Baseball" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5416"/>
+<name val="AND1 Streetball"/>
+<customAttribute val="Game,Sport,Basketball" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5036"/>
+<name val="Midnight Bowling 2"/>
+<customAttribute val="Game,sport,Bowling" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6828"/>
+<name val="3D AMF Bowling Deluxe"/>
+<customAttribute val="Game,Sport,Bowling" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6233"/>
+<name val="300 Bowl by BestDirection"/>
+<customAttribute val="Game,Sport,Bowling" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6235"/>
+<name val="300 Bowl by Best Direction"/>
+<customAttribute val="Game,Sport,Bowling" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6240"/>
+<name val="300 Bowl"/>
+<customAttribute val="Game,Sport,Bowling" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6812"/>
+<name val="Ali Boxing 3D"/>
+<customAttribute val="Game,Sport,boxing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6776"/>
+<name val="Ali Boxing"/>
+<customAttribute val="Game,Sport,boxing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_10921"/>
+<name val="Build-a-lot"/>
+<customAttribute val="Game,sport,football,soccer" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4396"/>
+<name val="2006 FIFA World Cup"/>
+<customAttribute val="Game,Sport,Football,soccer" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7541"/>
+<name val="3D Mini Golf 99 Holes"/>
+<customAttribute val="Game,Sport,Golf" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_18061"/>
+<name val="Mini Golf Wacky Worlds 3D"/>
+<customAttribute val="Game,sport,golf" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_288"/>
+<name val="3D Wave Blazer"/>
+<customAttribute val="Game,Sport,motor,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_299"/>
+<name val="4 Wheel Xtreme 3D"/>
+<customAttribute val="Game,Sport,motor,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_327"/>
+<name val="4 Wheel Xtreme"/>
+<customAttribute val="Game,Sport,motor,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6770"/>
+<name val="Balls of Fury"/>
+<customAttribute val="Game,Sport,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5280"/>
+<name val="NFL 2009"/>
+<customAttribute val="Game,Sport,NFL" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4327"/>
+<name val="Madden NFL 09 by EA SPORTS"/>
+<customAttribute val="Game,Sport,NFL" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_13801"/>
+<name val="NFL 2010"/>
+<customAttribute val="Game,sport,NFL" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_326"/>
+<name val="3D Pool 2: Urban Hustle"/>
+<customAttribute val="Game,Sport,pool" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4803"/>
+<name val="Midnight Pool 2"/>
+<customAttribute val="Game,sport,pool" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5025"/>
+<name val="Asphalt Urban GT 2 LIVE"/>
+<customAttribute val="Game,Sport,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5068"/>
+<name val="Asphalt 4 : Elite Racing"/>
+<customAttribute val="Game,Sport,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5428"/>
+<name val="Asphalt Urban GT 2"/>
+<customAttribute val="Game,Sport,Racing" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6873"/>
+<name val="Ultimate Chess 3D"/>
+<customAttribute val="Game,Strategy" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6990"/>
+<name val="Advanced Karpov 3D Chess"/>
+<customAttribute val="Game,Strategy,Chess" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4892"/>
+<name val="American Popstar: RTC"/>
+<customAttribute val="Game,TV" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_533"/>
+<name val="Diet TinyAssist"/>
+<customAttribute val="Health And Fitness" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4019"/>
+<name val="Get Cookin'"/>
+<customAttribute val="Health And Fitness,Cooking" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_11921"/>
+<name val="Cooking Mama"/>
+<customAttribute val="Health And Fitness,Cooking" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1728"/>
+<name val="Be Informed 2"/>
+<customAttribute val="News,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4137"/>
+<name val="FOX Sports Mobile Pro"/>
+<customAttribute val="Sport,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6746"/>
+<name val="Globetrotters"/>
+<customAttribute val="Travel" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2675"/>
+<name val="SuperPages"/>
+<customAttribute val="UTilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4017"/>
+<name val="Miles to Go"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4233"/>
+<name val="eBay"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_4242"/>
+<name val="CoolChat"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3325"/>
+<name val="PhotoCopter"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3557"/>
+<name val="MightyPhone"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3097"/>
+<name val="Pilot My-Cast by Garmin"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3559"/>
+<name val="MightyBackup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3594"/>
+<name val="Fujifilm Get The Picture"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3620"/>
+<name val="Fujifilm Get the Picture"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2018"/>
+<name val="MobileExpense"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2114"/>
+<name val="Chick Talk"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6922"/>
+<name val="cellbackup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6551"/>
+<name val="idatebook"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6557"/>
+<name val="iBackup 1.0"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6558"/>
+<name val="iphonebackup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_834"/>
+<name val="Rand McNally Traffic"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6528"/>
+<name val="iDatebook 2.2"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6543"/>
+<name val="iBackup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_7164"/>
+<name val="TranslaTodo Spanish/English 2"/>
+<customAttribute val="UTilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6507"/>
+<name val="iPhonebook 1.2"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6517"/>
+<name val="iPhonebackup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6541"/>
+<name val="iPhonebook"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_17021"/>
+<name val="CelleSync"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14501"/>
+<name val="Phone Backup"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_14861"/>
+<name val="HD Photo Mosaics"/>
+<customAttribute val="Utilities" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6928"/>
+<name val="CellBackup"/>
+<customAttribute val="Utilities,backup" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_383"/>
+<name val="Express"/>
+<customAttribute val="Utilities,Chat" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_5866"/>
+<name val="Vemail"/>
+<customAttribute val="Utilities,Email" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_6563"/>
+<name val="RemoMail"/>
+<customAttribute val="Utilities,Email,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_2133"/>
+<name val="aFlix"/>
+<customAttribute val="Utilities,Movies" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3502"/>
+<name val="Logitech Mobile Video"/>
+<customAttribute val="Utilities,Video ,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1042"/>
+<name val="AccuWeather.com Premium v3.0"/>
+<customAttribute val="Utilities,Weather" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1037"/>
+<name val="AccuWeather.com Premium"/>
+<customAttribute val="Utilities,Weather" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3102"/>
+<name val="MyCast 5 Weather"/>
+<customAttribute val="Utilities,Weather,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_3422"/>
+<name val="WeatherBug"/>
+<customAttribute val="Utilities,Weather,Info" code="Category" action="update"/>
+</catalogItemUpdate>
+<catalogItemUpdate>
+<source val="bds.content" />
+<item val="27583_1502"/>
+<name val="TheWeatherChannel"/>
+<customAttribute val="Utilities,Weather,Info" code="Category" action="update"/>
+</catalogItemUpdate></catalog>

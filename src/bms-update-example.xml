@@ -1,0 +1,6 @@
+<catalog xsi:noNamespaceSchemaLocation="xcp-catalog_1_1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<catalogItemUpdate>
+<item val="5860902"/>
+<customAttribute val="Entertainment2" code="Category" action="update"/>
+</catalogItemUpdate>
+</catalog>
